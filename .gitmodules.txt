@@ -1,3 +1,1 @@
-[submodule "tesseract"]
-    path = tesseract
-    url = https://github.com/Nandana-krishnan/teXty/blob/main/tesseract
+
